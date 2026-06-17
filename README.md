@@ -9,6 +9,8 @@ _Supportive accountability for fast-moving teams — turn "I'll handle that" int
 ![Storage](https://img.shields.io/badge/Storage-Markdown-083fa1)
 ![Tests](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)
 
+> 📐 **[Architecture diagram & design deep-dive →](docs/DESIGN.md)**
+
 ## Overview
 
 Teams lose a surprising amount of work in the gap between "I'll take care of that" and the ticket nobody ever created. **Commitment Decay Engine** captures the action items people commit to in meetings and chat, stores each one as a plain, human-readable markdown file, and then reconciles those promises against real evidence — tickets, pull requests, and status updates — to see what actually got done.
