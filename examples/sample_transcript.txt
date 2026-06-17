@@ -1,0 +1,5 @@
+Maya: I will rewrite the onboarding email copy by Friday.
+Noah: We should probably improve the dashboard someday.
+Ava: I can handle the API rate limit issue today.
+Maya: I already fixed the broken signup link yesterday.
+Liam: Let me investigate why search is returning stale records.

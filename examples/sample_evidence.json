@@ -1,0 +1,16 @@
+[
+  {
+    "source": "issue tracker",
+    "actor": "Maya",
+    "date": "2026-01-16",
+    "text": "Completed onboarding email copy rewrite and moved the launch checklist item to done.",
+    "url": "https://example.com/issues/123"
+  },
+  {
+    "source": "team chat",
+    "actor": "Ava",
+    "date": "2026-01-14",
+    "text": "Working on the API rate limit issue; found the burst window bug and will patch next.",
+    "url": "https://example.com/chat/456"
+  }
+]
