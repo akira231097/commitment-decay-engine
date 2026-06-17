@@ -2,6 +2,7 @@
 
 _Supportive accountability for fast-moving teams — turn "I'll handle that" into tracked, gently-followed-up commitments._
 
+[![CI](https://github.com/akira231097/commitment-decay-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/akira231097/commitment-decay-engine/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![CLI](https://img.shields.io/badge/Interface-CLI-444444)
