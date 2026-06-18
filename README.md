@@ -9,6 +9,10 @@ _Supportive accountability for fast-moving teams — turn "I'll handle that" int
 ![Storage](https://img.shields.io/badge/Storage-Markdown-083fa1)
 ![Tests](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)
 
+<p align="center">
+  <img src="assets/demo.svg" alt="Commitment Decay Engine demo" width="640">
+</p>
+
 > 📐 **[Architecture diagram & design deep-dive →](docs/DESIGN.md)**
 
 ## Overview
